@@ -19,8 +19,9 @@ This repo contains deeplearning.ai Course 04 Week 3 notebooks.
 5. Keep directory structure and names as is to use notebooks without any problems.
 6. Enjoy deep learning.
 
-Q: Which notebook should I work on?
+#### Q-A:
 
+Q: Which notebook should I work on?  
 A: Start working from the copy of the latest version (i.e. yolo-tutorial-v3-copy.ipynb)
 
 *Solutions provided here are not guaranteed to be correct or optimal. It is strongly recommended that the user should only use solutions provided here as a reference.*
