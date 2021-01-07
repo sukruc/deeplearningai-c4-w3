@@ -1,4 +1,4 @@
-This repo contains deeplearning.ai Course 04 Week 3 notebooks.
+This repo contains deeplearning.ai Course 04 Week 3 notebooks and pretrained YOLO-v2 weights.
 
 ## Contents:
 
@@ -8,16 +8,8 @@ This repo contains deeplearning.ai Course 04 Week 3 notebooks.
 #### Usage:
 
 1. Clone or download repository,
-2. Open terminal (or Git BASH for Windows) and go to directory `your_download_dir/model_data`
-3. Enter commands below in terminal:
-
-`cat yolo.h5.tar.gz.part-a* >yolo.h5.tar.gz`
-
-`tar -xvf yolo.h5.tar.gz`
-
-4. You can delete remaining tarball files now to save space.
-5. Keep directory structure and names as is to use notebooks without any problems.
-6. Enjoy deep learning.
+2. Run `setup.sh`
+3. Enjoy notebooks.
 
 #### Q-A:
 
